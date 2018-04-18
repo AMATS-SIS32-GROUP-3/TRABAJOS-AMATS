@@ -16,7 +16,7 @@ Desventajas
 2.	¿Es necesario trabajar bajos estos entornos de desarrollo?
 
 3.	¿Qué es un commit?
-
+Commits (locales): Cada commit es un grupo de cambios sobre uno o varios ficheros, con una descripción, una fecha, un autor, etc. La gran diferencia con SVN es que los commits en Git son locales hasta que no se efectúa la subida al servidor. Estos commits locales (importante que sean locales) pueden ser modificados sin peligro (con modificados quiero decir que se les pueden añadir más cambios, actualizar su mensaje o incluso eliminarlos).
 4.	¿Qué es un repositorio?
 Es un lugar donde se almacenan los proyectos de los usuarios.
 5.	¿Cuál es la ventaja de trabajar con repositorios privados?
